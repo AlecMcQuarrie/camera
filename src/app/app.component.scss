@@ -1,0 +1,19 @@
+.vid {
+  width: 50%;
+  position: relative;
+  margin: auto;
+  margin: 0;
+}
+
+.captureButton {
+  padding: 15px;
+  background-color: #574CFA;
+  color: white;
+  border: none;
+  font-size: 16px;
+  margin: 10px;
+}
+
+.captureButton:focus {
+  border: none;
+}
